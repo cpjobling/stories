@@ -16,3 +16,4 @@
 14. [#GuildChat Readdress the LMS](guildchat-readdress-the-lms.html)
 15. [Wondering while wandering at #digifest16](wondering-while-wandering-at-digifest16.html) -- #WWW16 with @chrissinerantzi curated by me!
 16. [#HEAchat/#LTHEchat February 2016](heachat-lthechat.html)
+17. [#LTHEchat No 44 : Using music creatively to enhance non-music teaching](lthechat-45.html)
