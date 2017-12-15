@@ -13,3 +13,4 @@
 11. [#OneNoteQ Tweetmeet](onenoteq-tweetmeet-2.html)
 12. [Swansea University SALT Conference 2016](swansea-university-salt-conference-2016.html)
 13. [Micromouse Conflict Finals](micromouse-conflict-finals.html)
+14. [#GuildChat Readdress the LMS](guildchat-readdress-the-lms.html)
