@@ -14,3 +14,4 @@
 12. [Swansea University SALT Conference 2016](swansea-university-salt-conference-2016.html)
 13. [Micromouse Conflict Finals](micromouse-conflict-finals.html)
 14. [#GuildChat Readdress the LMS](guildchat-readdress-the-lms.html)
+15. [Wondering while wandering at #digifest16](wondering-while-wandering-at-digifest16.html) -- #WWW16 with @chrissinerantzi curated by me!
