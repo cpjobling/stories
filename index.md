@@ -11,3 +11,4 @@
 9. [#OneNoteQ TweetMeet](onenoteq-tweetmeet.html)
 10. [#LTHEChat 66 - the growth of the network](lthechat-66-the-growth-of-the-network.html)
 11. [#OneNoteQ Tweetmeet](onenoteq-tweetmeet-2.html)
+12. [Swansea University SALT Conference 2016](swansea-university-salt-conference-2016.html)
