@@ -5,3 +5,4 @@
 3. [Open - what do we value? #openedsig #altc](open-what-do-we-value.html)
 4. [SALT Conference 2017 (#susalt17)](salt-conference-2017-susalt17)
 5. [#BYOD4L and #CreativeHE Creations](byod4l-creations.html)
+6. [My Day Curating for #BYOD4L](my-day-curating-for-byod4l.html)
