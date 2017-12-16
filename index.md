@@ -21,3 +21,5 @@
 19. [#HEAchat/#LTHEchat February 2016](heachat-lthechat.html)
 20. [#LTHEchat No 44 : Using music creatively to enhance non-music teaching](lthechat-45.html)
 21. [HEA STEM Conference 2016 After Party](after-hea-stem-conference-16.html)
+22. [HEA STEM Conference Day 1](hea-stem-conference-day-1.html)
+23. [HEA STEM Conference 2016 - Day 2](hea-stem-conference-2016-day-1.html)
