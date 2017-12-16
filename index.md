@@ -12,6 +12,7 @@
 10. [#LTHEChat 66 - the growth of the network](lthechat-66-the-growth-of-the-network.html)
 11. [#OneNoteQ Tweetmeet](onenoteq-tweetmeet-2.html)
 12. [Swansea University SALT Conference 2016](swansea-university-salt-conference-2016.html)
+12. [Lecture capture](lecture-capture.html)
 13. [Micromouse Conflict Finals](micromouse-conflict-finals.html)
 14. [#GuildChat Readdress the LMS](guildchat-readdress-the-lms.html)
 15. [Wondering while wandering at #digifest16](wondering-while-wandering-at-digifest16.html) -- #WWW16 with @chrissinerantzi curated by me!
