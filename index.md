@@ -15,7 +15,8 @@
 13. [Swansea University SALT Conference 2016](swansea-university-salt-conference-2016.html)
 14. [#HEWhitePaper](hewhitepaper.html)
 15. [Micromouse Conflict Finals](micromouse-conflict-finals.html)
-16. [#GuildChat Readdress the LMS](guildchat-readdress-the-lms.html)
-17. [Wondering while wandering at #digifest16](wondering-while-wandering-at-digifest16.html) -- #WWW16 with @chrissinerantzi curated by me!
-18. [#HEAchat/#LTHEchat February 2016](heachat-lthechat.html)
-19. [#LTHEchat No 44 : Using music creatively to enhance non-music teaching](lthechat-45.html)
+16. [#OER16 Day 1](oer16-day-1.html)
+17. [#GuildChat Readdress the LMS](guildchat-readdress-the-lms.html)
+18. [Wondering while wandering at #digifest16](wondering-while-wandering-at-digifest16.html) -- #WWW16 with @chrissinerantzi curated by me!
+19. [#HEAchat/#LTHEchat February 2016](heachat-lthechat.html)
+20. [#LTHEchat No 44 : Using music creatively to enhance non-music teaching](lthechat-45.html)
