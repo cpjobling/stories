@@ -20,3 +20,4 @@
 18. [Wondering while wandering at #digifest16](wondering-while-wandering-at-digifest16.html) -- #WWW16 with @chrissinerantzi curated by me!
 19. [#HEAchat/#LTHEchat February 2016](heachat-lthechat.html)
 20. [#LTHEchat No 44 : Using music creatively to enhance non-music teaching](lthechat-45.html)
+21. [HEA STEM Conference 2016 After Party](after-hea-stem-conference-16.html)
