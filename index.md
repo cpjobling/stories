@@ -26,3 +26,4 @@
 1. [HEA STEM Conference 2016 - Day 2](hea-stem-conference-2016-day-1.html)
 1. [#LTHEchat No 43 with Prof. Norman Jackson](lthechat-on)
 1. [Unofficial story of final #BYOD4Lchat](unofficial-story-of-final-byod4lchat.html)
+1. [Examples of useful curated resources (BYOD4L Jan 2016)](community-responses-to-q4.html)
