@@ -30,3 +30,5 @@
 1. [My Tweets and Favourites](my-tweets-and-favourites.html)
 1. [#LTHEChat #byod4lchat - January 2014](lthechat-byod4lchat-january-2014.html)
 1. [#RUL12AoC](sketches.html)
+1. [Tony Hirst on Data Wrangling](tony-hirst-on-data-wrangling.html)
+1. [#BYOD4Lchat: curating!](byod4lchat-curating.html)
