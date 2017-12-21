@@ -12,7 +12,7 @@ I created a new public project on GitHub ([https://github.com/cpjobling/stories]
 
 By archiving a couple of handfuls of stories per session, the whole process took a few days.
 
-Furthermore, the beauty of using Git is that the whole archive is just a set of files on my PC and I can create numerous copies. So there's no danger of losing the archive, even GitHub shuts down. Plus the archive, in the `gh-pages` branch of the [https://github.com/cpjobling/stories](github.com/cpjobling/stories) repository, is just a static website and can be hosted on any server. Git provides version control and support for distributed replication.
+Furthermore, the beauty of using Git is that the whole archive is just a set of files on my PC and I can create numerous copies. So there's no danger of losing the archive, even GitHub shuts down. Plus the archive, in the `gh-pages` branch of the [github.com/cpjobling/stories](https://github.com/cpjobling/stories) repository, is just a static website and can be hosted on any server. Git provides version control and support for distributed replication.
 
 ## What's next
 
@@ -53,7 +53,7 @@ I've demonstrated a solution to the archiving of a set of stories but the soluti
 1. [Tony Hirst on Data Wrangling](tony-hirst-on-data-wrangling.html)
 1. [#BYOD4Lchat: curating!](byod4lchat-curating.html)
 
-Chris Jobling
+Chris Jobling<br>
 21st December 2017
 
 ----
