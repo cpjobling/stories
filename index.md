@@ -12,7 +12,9 @@ I created a new public project on GitHub ([github.com/cpjobling/stories](https:/
 
 By archiving a couple of handfuls of stories per session, the whole process took a few days.
 
-Furthermore, the beauty of using Git is that the whole archive is just a set of files on my PC and I can create numerous copies. So there's no danger of losing the archive, even GitHub shuts down. Plus the archive, in the `gh-pages` branch of the [github.com/cpjobling/stories](https://github.com/cpjobling/stories) repository, is just a static website and can be hosted on any server. Git provides version control and support for distributed replication.
+Furthermore, the whole archive is just a set of files on my PC and I can create numerous copies. Git provides version control and support for distributed replication, so there's no danger of losing the archive, even if GitHub shuts down.
+
+Plus the archive, in the `gh-pages` branch of the [github.com/cpjobling/stories](https://github.com/cpjobling/stories) repository, is just a static website and can be hosted on any server. 
 
 ## What's next
 
