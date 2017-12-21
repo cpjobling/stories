@@ -1,5 +1,25 @@
 # Chris Jobling's Stories
 
+This is an archive of the tweet chat stories that I originally created on [Storify](https://storify.com) ([storify.com/cpjobling](https://storify.com/cpjobling)] between July 2014 and December 2017. I created it as a response to the announcement that Storify service was being retired in May 2018.
+
+![A screenshot of my Storify archive at it was on 21st December 2017](cpj-at-storyfy.png).
+
+## How I made this
+
+Storify has provided an export feature which is able to save a published story as HTML5, XML or JSON. I used the HTML5 option which creates a single web page with the images, styles and JavaScript embedded then used my browser's *Save page as Webpage, complete* feature to create a complete local copy of the page and all its assets.
+
+I created a new public project on GitHub ([https://github.com/cpjobling/stories](github.com/cpjobling/stories)) and used the [GitHub Pages](https://pages.github.com/) feature to create a static website repository of these saved stories that is accessible via [cpjobling.github.io/stories](https://cpjobling.github.io/stories).
+
+By archiving a couple of handfuls of stories per session, the whole process took a few days.
+
+Furthermore, the beauty of using Git is that the whole archive is just a set of files on my PC and I can create numerous copies. So there's no danger of losing the archive, even GitHub shuts down. Plus the archive, in the `gh-pages` branch of the [https://github.com/cpjobling/stories](github.com/cpjobling/stories) repository, is just a static website and can be hosted on any server. Git provides version control and support for distributed replication.
+
+## What's next
+
+I've demonstrated a solution to the archiving of a set of stories but the solution to the problem of curation of tweet chats is still open.
+
+## The Archive
+
 1. [#SocMedHE17](socmedhe17.html)
 1. [#AdaLovelaceDay 2017 #ALD17](AdaLovelaceDay_2017_ALD17.html)
 1. [Summer community-led pop-up #LTHEChat](pop-up-lthechat.html)
@@ -32,3 +52,10 @@
 1. [#RUL12AoC](sketches.html)
 1. [Tony Hirst on Data Wrangling](tony-hirst-on-data-wrangling.html)
 1. [#BYOD4Lchat: curating!](byod4lchat-curating.html)
+
+Chris Jobling
+21st December 2017
+
+----
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
