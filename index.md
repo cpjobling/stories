@@ -2,7 +2,7 @@
 
 This is an archive of the tweet chat stories that I originally created on [Storify](https://storify.com) ([storify.com/cpjobling](https://storify.com/cpjobling)] between July 2014 and December 2017. I created it as a response to the announcement that Storify service was being retired in May 2018.
 
-![A screenshot of my Storify archive at it was on 21st December 2017](gh-pages/blob/cpj-at-storyfy.png).
+![A screenshot of my Storify archive at it was on 21st December 2017](cpj-at-storify.png).
 
 ## How I made this
 
