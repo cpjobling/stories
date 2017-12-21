@@ -28,3 +28,4 @@
 1. [Unofficial story of final #BYOD4Lchat](unofficial-story-of-final-byod4lchat.html)
 1. [Examples of useful curated resources (BYOD4L Jan 2016)](community-responses-to-q4.html)
 1. [My Tweets and Favourites](my-tweets-and-favourites.html)
+1. [#LTHEChat #byod4lchat - January 2014](lthechat-byod4lchat-january-2014.html)
