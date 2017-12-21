@@ -8,7 +8,7 @@ This is an archive of the tweet chat stories that I originally created on [Stori
 
 Storify has provided an export feature which is able to save a published story as HTML5, XML or JSON. I used the HTML5 option which creates a single web page with the images, styles and JavaScript embedded then used my browser's *Save page as Webpage, complete* feature to create a complete local copy of the page and all its assets.
 
-I created a new public project on GitHub ([https://github.com/cpjobling/stories](github.com/cpjobling/stories)) and used the [GitHub Pages](https://pages.github.com/) feature to create a static website repository of these saved stories that is accessible via [cpjobling.github.io/stories](https://cpjobling.github.io/stories).
+I created a new public project on GitHub ([github.com/cpjobling/stories](https://github.com/cpjobling/stories)) and used the [GitHub Pages](https://pages.github.com/) feature to create a static website repository of these saved stories that is accessible via [cpjobling.github.io/stories](https://cpjobling.github.io/stories).
 
 By archiving a couple of handfuls of stories per session, the whole process took a few days.
 
