@@ -1,6 +1,6 @@
 # Chris Jobling's Stories
 
-This is an archive of the tweet chat stories that I originally created on [Storify](https://storify.com) ([storify.com/cpjobling](https://storify.com/cpjobling)] between July 2014 and December 2017. I created it as a response to the announcement that Storify service was being retired in May 2018.
+This is an archive of the tweet chat stories that I originally created on [Storify](https://storify.com) ([storify.com/cpjobling](https://storify.com/cpjobling)) between July 2014 and December 2017. I created it as a response to the announcement that Storify service was being retired in May 2018.
 
 ![A screenshot of my Storify archive at it was on 21st December 2017](cpj-at-storify.png).
 
@@ -14,7 +14,7 @@ By archiving a couple of handfuls of stories per session, the whole process took
 
 Furthermore, the whole archive is just a set of files on my PC and I can create numerous copies. Git provides version control and support for distributed replication, so there's no danger of losing the archive, even if GitHub shuts down.
 
-Plus the archive, in the `gh-pages` branch of the [github.com/cpjobling/stories](https://github.com/cpjobling/stories) repository, is just a static website and can be hosted on any server. 
+Plus the archive, in the `gh-pages` branch of the [github.com/cpjobling/stories](https://github.com/cpjobling/stories) repository, is just a static website and can be hosted on any server.
 
 ## What's next
 
@@ -22,6 +22,7 @@ I've demonstrated a solution to the archiving of a set of stories but the soluti
 
 ## The Archive
 
+1. [#lrnchat - 22nd December 2017](lrnchat-22nd-december-2017.html)
 1. [#SocMedHE17](socmedhe17.html)
 1. [#AdaLovelaceDay 2017 #ALD17](AdaLovelaceDay_2017_ALD17.html)
 1. [Summer community-led pop-up #LTHEChat](pop-up-lthechat.html)
